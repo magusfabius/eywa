@@ -32,4 +32,4 @@ As an open-source beacon, Eywa thrives on collaboration. We wholeheartedly invit
 
 ---
 
-You can read the full story of Eywa [here]([https://link-url-here.org](https://medium.com/@fabiuskarlino/5d52a6d0819c?source=friends_link&sk=9982fe200ed7924df293de939d2a80dd)https://medium.com/@fabiuskarlino/5d52a6d0819c?source=friends_link&sk=9982fe200ed7924df293de939d2a80dd)
+You can read the full story of Eywa [here](https://medium.com/@fabiuskarlino/5d52a6d0819c?source=friends_link&sk=9982fe200ed7924df293de939d2a80dd)
